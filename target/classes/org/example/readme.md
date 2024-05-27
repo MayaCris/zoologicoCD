@@ -8,7 +8,7 @@
 - Se crean 2 objetos
 
 ¿Cuántos y cuáles son los atributos de la clase Animal?
-- Son 4 atributos: nombre, genero, peso y pareja
+- Son 4 atributos: nombre, genero, edad y pareja
 
 ¿Cuáles atributos de la clase Animal no son primitivos?
 - El atributo pareja
