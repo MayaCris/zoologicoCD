@@ -3,9 +3,9 @@ package org.example;
 public class Familia {
 
 
-    private Animal papa= new Animal();
+    private Animal papa= new Animal(); //Preguntar por que es redundante
     private Animal mama= new Animal();
-    private Animal hijo;
+    private Animal hijo= new Animal();
 
 
     public Animal getPapa() {
